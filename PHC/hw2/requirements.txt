@@ -1,0 +1,6 @@
+onnxruntime
+pytelegrambotapi
+pillow
+telegram
+numpy
+opencv-python
